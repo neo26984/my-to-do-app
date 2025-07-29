@@ -1,4 +1,4 @@
-FILENAME = r"C:\START-HERE\Teena\python\web_app1\todos.txt"
+FILENAME = "todos.txt"
 
 
 def get_todos(filepath=FILENAME):
